@@ -30,10 +30,8 @@ local scene = composer.newScene()
 
     	composer.gotoScene("scene1",options)
 	end
-	return true
+	return true 
  end
- 
- 
 -- -----------------------------------------------------------------------------------
 -- Scene event functions
 -- -----------------------------------------------------------------------------------
